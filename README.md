@@ -1,5 +1,5 @@
 # DIU-Faculty-Research-field-extractor
-this is a simple multi-threaded web crawler that crawls through DIU faculty profiles and extracts research fields
+This is a simple multi-threaded web crawler that crawls through DIU faculty profiles and extracts research fields
 
 
 * need python 3.4 or later to run.
