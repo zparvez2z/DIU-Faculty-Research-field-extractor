@@ -1,4 +1,4 @@
-# DIU-Faculty-Research-field-extractor
+# Research-field-Scrapper
 This is a simple multi-threaded web crawler that crawls through DIU faculty profiles and extracts research fields
 
 
